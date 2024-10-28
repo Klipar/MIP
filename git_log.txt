@@ -1,0 +1,5 @@
+commit d5d97261f76a76ca3ea7ccdb418722a6c1e5645c
+Author: klipar <bhdnkarpenko123@gmail.com>
+Date:   Mon Oct 14 13:51:21 2024 +0200
+
+    7 download part of the literature
